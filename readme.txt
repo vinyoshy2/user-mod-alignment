@@ -19,10 +19,6 @@ Likert-rating data on rule support (data in abstract.json).
 The policy_analysis and practice_analysis folder contains most of the code behind each of these notebooks
 (organized into "model", "viz", and "preprocessing" subfolders).
 
-To run the notebooks as-is yourself, add a shortcut of this folder to your google drive (right click the folder and hover over "Organize")
-Then open up any of the .ipynb in Google colab. Alterantively you can download this folder and run the code locally, though you will have to
-adjust the file-paths in the code. 
-
 Feel free to direct any questions to vkoshy2@illinois.edu
  
 
