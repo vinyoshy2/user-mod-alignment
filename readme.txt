@@ -1,5 +1,8 @@
-Hi! This Google drive contains some of the code and data associated with the CSCW paper "Measuring User-Moderator Alignment on r/ChangeMyView"
 
+##Overview##
+Code and data associated with the CSCW paper "Measuring User-Moderator Alignment on r/ChangeMyView"
+
+##Organization##
 The code is organized into three notebooks: 
 
 1. policy_awareness.ipynb contains the the logistic regression model used to conduct MRP
